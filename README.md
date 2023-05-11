@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 ![Visitor Count](https://profile-counter.glitch.me/{lennyjuma}/count.svg)
 
-# Hello there1 :wave:
+# Hello there :wave:
 I'm lenny from Nairobi,kenya. 
 
 ## Quick overview
