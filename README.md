@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 I'm lenny from Nairobi,kenya. 
 
 ## Quick overview  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lennyjuma&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lennyjuma&layout=donut&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lennyjuma)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
