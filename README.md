@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 I'm lenny from Nairobi,kenya. 
 
 ## Quick overview  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lennyjuma&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=lennyjuma&show_icons=true&line_height=27&include_all_commits=true&count_private=true" alt="My github stats" />
 </a>  
