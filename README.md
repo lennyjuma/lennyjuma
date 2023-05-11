@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 # Hello there :wave:
 I'm lenny from Nairobi,kenya. 
 
-## Quick overview
-* GitHub stats:  
+## Quick overview  
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=lennyjuma&show_icons=true&line_height=27&include_all_commits=true&count_private=true" alt="My github stats" />
 </a>  
