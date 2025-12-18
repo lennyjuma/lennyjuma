@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 -->
 ![Visitor Count](https://profile-counter.glitch.me/{lennyjuma}/count.svg)
 
-# Hello there :wave:
-I'm lenny from Nairobi,kenya. 
+
 
 ## Quick overview  
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lennyjuma&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
