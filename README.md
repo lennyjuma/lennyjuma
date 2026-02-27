@@ -63,8 +63,6 @@ Tip: keep this short + skimmable. Update “Now” every few weeks.
 - 🚧 **Triton Model Serving** — export + deploy YOLO/ONNX models with consistent configs
 - 🚧 **Integration Tooling** — batch/message/stream processing with strong logging/metrics
 
-> Pin your best 3–6 repos here (on GitHub → “Customize your pins”) 👆
-
 ---
 
 ## Contact
