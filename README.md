@@ -1,70 +1,66 @@
-<!--
-Profile README for: lennyjuma
-Tip: keep this short + skimmable. Update “Now” every few weeks.
--->
-
-<h1 align="center">Hi, I’m Lenny (lennyjuma) 👋</h1>
+<h1 align="center">Hi, I'm Lenny 👋</h1>
 <p align="center">
-  Software Engineer • Computer Vision • Streaming & MLOps
-</p>
-
-<p align="center">
-  <a href="https://github.com/lennyjuma">
-    <img src="https://img.shields.io/github/followers/lennyjuma?label=Followers&style=for-the-badge" />
-  </a>
-  <img src="https://img.shields.io/badge/Focus-Computer%20Vision%20%26%20Backend-0ea5e9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-Nairobi-22c55e?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/lennyjuma/count.svg" />
+  Software Engineer | Backend | Spring Boot | Integration Systems
 </p>
 
 ---
 
-## Now
-- 🔭 Building real-time vision pipelines (RTSP/ONVIF → inference → tracking → storage)
-- 🌱 Learning: Triton Inference Server, CI/CD (GitLab), and robust observability (Prometheus)
-- 🤝 Open to collaborating on: CV systems, streaming apps, model serving, and automation tooling
+## 👨‍💻 About Me
+
+I’m a backend-focused software engineer building reliable, maintainable, and scalable systems.
+
+My core work revolves around Java and Spring Boot applications, API design, and enterprise integrations.
+
+I care about clean architecture, solid engineering practices, and production-ready systems.
 
 ---
 
-## What I do
-- **Computer Vision:** detection/segmentation, tracking (DeepSORT), ReID embeddings  
-- **Model Serving:** Triton, ONNX export, performance + shape/debugging  
-- **Backend & Systems:** FastAPI, Python tooling, Docker, CI pipelines  
-- **Observability:** metrics, logging, monitoring (Prometheus-style workflows)
+## 🛠 Tech Stack
+
+### 💻 Languages
+- Java
+- Python
+- Bash
+
+### 🚀 Backend
+- Spring Boot
+- REST API Design
+- Authentication & Authorization
+- Microservices Architecture
+
+### 🔗 Integration
+- MuleSoft
+- API-led Connectivity
+- Batch & Message Processing
+
+### 🎨 Frontend
+- Tailwind CSS
+
+### ⚙ DevOps
+- Docker
+- GitLab CI/CD
+- Linux
 
 ---
 
-## Tech Stack
-**Languages:** Python, Bash  
-**CV/ML:** OpenCV, Ultralytics YOLO, ONNX  
-**Serving/Infra:** Triton, Docker, Linux  
-**APIs:** FastAPI  
-**DevOps:** GitLab CI/CD, containerized deployments  
+## 📊 GitHub Stats
 
----
-
-## GitHub Stats
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=lennyjuma&show_icons=true&include_all_commits=true&count_private=true" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lennyjuma&layout=compact&langs_count=10&hide=css,html" />
-  </a>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lennyjuma&show_icons=true&include_all_commits=true&count_private=true" />
 </p>
 
 ---
 
-## Featured Projects
-- 🚧 **Vision Streaming Pipeline** — RTSP ingest, inference, tracking, and event output
-- 🚧 **Triton Model Serving** — export + deploy YOLO/ONNX models with consistent configs
-- 🚧 **Integration Tooling** — batch/message/stream processing with strong logging/metrics
+## 🎯 Focus Areas
+
+- Backend Architecture
+- Enterprise Integration
+- Scalable APIs
+- CI/CD & Automation
+- Clean Code & Maintainability
 
 ---
 
-## Contact
-- 📫 Reach me on: **GitHub Discussions / Issues** in my repos  
-- 💬 Ask me about: **YOLO**, **tracking**, **Triton**, **FastAPI**, **CI/CD**
+## 📫 Connect
+
+Open an issue, start a discussion, or collaborate on a project.
